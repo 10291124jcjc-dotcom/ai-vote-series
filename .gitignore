@@ -1,0 +1,6 @@
+.env
+frames/
+stills/
+voice/
+*.wav
+__pycache__/
